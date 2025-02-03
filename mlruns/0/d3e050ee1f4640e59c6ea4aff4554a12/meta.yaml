@@ -1,0 +1,15 @@
+artifact_uri: /home/dewansh/projects/pydataberlin-2019/mlruns/0/d3e050ee1f4640e59c6ea4aff4554a12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3e050ee1f4640e59c6ea4aff4554a12
+run_name: welcoming-grouse-315
+run_uuid: d3e050ee1f4640e59c6ea4aff4554a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738514680595
+status: 1
+tags: []
+user_id: dewansh

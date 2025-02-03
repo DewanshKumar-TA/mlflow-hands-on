@@ -1,0 +1,15 @@
+artifact_uri: /home/dewansh/projects/pydataberlin-2019/mlruns/362252439870788847/573d1490027d4d5cbb98f11bddff8306/artifacts
+end_time: 1738512754294
+entry_point_name: ''
+experiment_id: '362252439870788847'
+lifecycle_stage: active
+run_id: 573d1490027d4d5cbb98f11bddff8306
+run_name: enthused-ape-128
+run_uuid: 573d1490027d4d5cbb98f11bddff8306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738512750405
+status: 3
+tags: []
+user_id: dewansh
